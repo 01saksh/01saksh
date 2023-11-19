@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakshi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sakshisingh2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sakshisingh2807" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshi-singh-372500209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-singh-372500209" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sakshisingh2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshisingh2807" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01saksh&show_icons=true&locale=en" alt="01saksh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01saksh&" alt="01saksh" /></p>
-
-
