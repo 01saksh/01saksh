@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01saksh&label=Profile%20views&color=0e75b6&style=flat" alt="01saksh" /> </p>
 
-- 🌱 I’m currently learning **python,aws**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sakshi-singh-372500209/](https://www.linkedin.com/in/sakshi-singh-372500209/)
 
-- 💬 Ask me about **sql,python,java,powerbi,excel**
+- 💬 Ask me about **sql,powerbi,excel**
 
 - 📫 How to reach me **20singhsakshi@gmail.com**
 
-- ⚡ Fun fact **A serious personality**
+- ⚡ Fun fact **Looks like a serious personality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
